@@ -1,1 +1,1 @@
-# turizm-guru
+# turizm guru
